@@ -23,7 +23,8 @@ Airbnb is a real company that’s made their data available online. However, the
 # Libraries:
 + Pandas: for data analysis
 + Numpy: for mathematical equations
-+ Seaborn & Matplotlib: for data visualizations
++ Matplotlib: for data visualizations
++ SKlearn: for LinearRegression, mean_squared_error, r2_score, k-means algorithm calculations
 
 # Folders
 + Project Management: Project Brief
